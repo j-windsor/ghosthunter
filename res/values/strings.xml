@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ghost Hunter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">START</string>
+    <string name="resume">RESUME</string>
+
+    <color name="orange">#BE5E00</color>
+    <color name="green">#00FF00</color>
+    <color name="darkgreen">#006400</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#222222</color>
+
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
